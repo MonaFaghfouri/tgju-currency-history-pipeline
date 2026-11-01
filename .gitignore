@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+tgju_checkpoints/
+*.xlsx
+*.xls
+.ipynb_checkpoints/
